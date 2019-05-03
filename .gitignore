@@ -1,0 +1,12 @@
+p6_root
+fastjet
+print
+_h.h
+_x.cxx
+_m.xml
+sums/input
+sums/err
+sums/out
+sums/output
+sums/te
+*.root
